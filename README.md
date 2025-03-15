@@ -1,2 +1,14 @@
-# Object-Oriented-Programming
-Assignments and lab tasks from my Object-Oriented Programming course in C++, covering classes, inheritance, polymorphism, and STL.
+# Object-Oriented Programming (C++)
+This repository contains assignments and lab exercises from the OOP course.
+
+## 📁 Structure
+- `Assignments/`
+- `Lab Tasks/`
+
+## 📝 Topics Covered
+- Classes and objects
+- Encapsulation and abstraction
+- Inheritance and polymorphism
+- Operator overloading
+- File handling and exception handling
+- Standard Template Library (STL)
